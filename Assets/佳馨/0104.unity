@@ -4030,6 +4030,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d958524f5a165fd4ca0fd2ac0899f600, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  MenuPage: {fileID: 0}
+  SettingPage: {fileID: 0}
 --- !u!4 &1812945655
 Transform:
   m_ObjectHideFlags: 0
